@@ -1,0 +1,96 @@
+Arun J
+Full Stack Node.js Developer
+
+Contact Information:
+Email: arunrock14331@gmail.com
+Phone: +91 8668056048
+LinkedIn: [Add your LinkedIn URL]
+GitHub: [Add your GitHub URL]
+
+Professional Summary:
+Full Stack Node.js Developer with 3+ years of experience developing scalable web applications and APIs using Node.js, Express.js, and modern frontend frameworks. Proven expertise in microservices architecture, cloud deployment, and healthcare domain applications. Strong background in JavaScript ecosystem with experience in both SQL and NoSQL databases.
+
+Technical Skills:
+Backend: Node.js, Express.js, RESTful APIs, Microservices, JavaScript (ES6+), TypeScript, JWT Authentication
+Frontend: Angular, React, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, Responsive Web Design
+Databases: MongoDB, Microsoft SQL Server, MySQL, Mongoose ODM, Database Design
+Cloud & DevOps: Microsoft Azure, AWS, Docker, Git, Version Control, CI/CD
+Testing & Tools: Jest, Mocha, Chai, Postman, Visual Studio Code, npm, yarn
+
+Work Experience:
+Associate • Cognizant (Jan 2024 – Present)
+- Develop and maintain full stack applications for Wellmark Health Insurance using Node.js, Express.js, Angular, and SQL Server.
+- Build scalable REST APIs serving healthcare data to multiple client applications with 99.9% uptime.
+- Collaborate with cross-functional teams to deliver healthcare solutions and claims processing systems.
+
+Programmer Analyst • Cognizant (Jan 2023 – Dec 2023)
+- Developed healthcare management solutions for Premera using Node.js backend services, Angular frontend, and MongoDB database.
+- Implemented real-time data processing using Express.js middleware and MongoDB aggregation pipelines.
+- Optimized API response times by 40% through efficient database queries and caching strategies.
+
+Programmer Analyst Trainee • Cognizant (Jan 2022 – Dec 2022)
+- Completed comprehensive full stack development training focusing on Node.js, Express.js, MongoDB, and Angular.
+- Built multiple projects demonstrating proficiency in JavaScript ecosystem and modern development practices.
+
+Projects:
+SQL Query Automation Tool
+- Node.js application that executes predefined SQL queries against databases and exports results to Excel format.
+- Automated report generation and email distribution using Outlook integration for stakeholders.
+- Implemented scheduling functionality for regular report generation and delivery.
+- Tech used: Node.js, SQL Server, Excel.js, Nodemailer, Outlook API.
+
+Tech Kart Application
+- Microservices-based e-commerce platform featuring JWT authentication, role-based authorization, and user-specific shopping carts.
+- Implemented RESTful APIs, integrated payment processing, and deployed on Azure App Services.
+- Tech used: ASP.NET Core, Angular, SQL Server.
+
+COVID-19 India Tracker
+- Angular web application visualizing public COVID-19 data using public APIs.
+- Tech used: Angular, public API.
+
+Secret Santa Generator
+- Full stack application for Secret Santa game, automating participant email notifications.
+- Tech used: ASP.NET Core, Angular.
+
+Movie Ticket Booking System
+- Microservices-based application for online movie ticket booking with seat selection, payment integration, and booking management.
+- Tech used: ASP.NET Core, SQL Server.
+
+Education:
+Velammal Engineering College (2016 – 2020)
+BTech - Information Technology
+
+ST. Thomas Matriculation Hr. Sec. School (2015 – 2016)
+HSC
+
+ST. Thomas Matriculation Hr. Sec. School (2013 – 2014)
+SSLC
+
+Certifications:
+- Microsoft Azure Fundamentals (AZ-900) - 2024
+
+Key Achievements:
+- Successfully delivered 3+ full stack applications using Node.js and modern JavaScript frameworks
+- Optimized API performance resulting in 40% faster response times
+- Contributed to healthcare systems serving 500K+ members with zero downtime deployments
+
+Languages:
+English – Professional
+Tamil – Native
+
+Technical Expertise:
+- Asynchronous Programming: Proficient in Promises, async/await, and event-driven architecture
+- API Development: RESTful services, middleware implementation, authentication & authorization
+- Database Management: Both SQL and NoSQL database design and optimization
+- Real-time Applications: WebSocket implementation for live data updates
+
+Healthcare Domain Expertise:
+- Experience in developing and maintaining healthcare and insurance technology solutions using Node.js
+- Knowledge of healthcare data standards and compliance requirements
+- Claims processing and member management system development
+
+Soft Skills:
+- Problem-solving and debugging
+- Team collaboration and code review
+- Agile/Scrum methodology
+- Performance optimization

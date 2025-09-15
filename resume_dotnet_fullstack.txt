@@ -1,0 +1,80 @@
+Arun J
+Full Stack .NET Developer
+
+Contact Information:
+Email: arunrock14331@gmail.com
+Phone: +91 8668056048
+LinkedIn: [Add your LinkedIn URL]
+GitHub: [Add your GitHub URL]
+
+Professional Summary:
+Full Stack .NET Developer with 3+ years of experience developing scalable web applications using ASP.NET Core, Angular, and SQL Server. Proven expertise in microservices architecture, Azure cloud deployment, and healthcare domain applications. Seeking to leverage strong technical skills and domain knowledge to contribute to innovative software solutions.
+
+Technical Skills:
+Backend: C#, ASP.NET Core, .NET Framework, Node.js, RESTful APIs, Microservices, Entity Framework, LINQ, Trizetto Facets
+Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, Responsive Web Design
+Databases: Microsoft SQL Server, MongoDB, T-SQL, Database Design
+Cloud & DevOps: Microsoft Azure, Azure App Services, Git, Version Control
+Testing & Tools: NUnit, Unit Testing, Visual Studio, VS Code
+
+Work Experience:
+Associate • Cognizant (Jan 2024 – Present)
+- Develop and maintain full stack applications for Wellmark Health Insurance using .NET, Node.js, Angular, and SQL Server.
+- Collaborate with cross-functional teams to deliver healthcare solutions while working as a Trizetto Facets developer for claims processing systems.
+
+Programmer Analyst • Cognizant (Jan 2023 – Dec 2023)
+- Developed healthcare management solutions for Premera using ASP.NET Core Web API, Angular front-end, and MongoDB database, improving data processing efficiency by implementing RESTful services.
+
+Programmer Analyst Trainee • Cognizant (Jan 2022 – Dec 2022)
+- Completed comprehensive full stack .NET development training, mastering ASP.NET Core, Entity Framework, Angular, and SQL Server development practices.
+- Developed Tech Kart Application as part of training using ASP.NET Core and Angular.
+
+Projects:
+Tech Kart Application
+- Microservices-based e-commerce platform featuring JWT authentication, role-based authorization, and user-specific shopping carts.
+- Implemented RESTful APIs, integrated payment processing, and deployed on Azure App Services with CI/CD pipeline.
+- Tech used: ASP.NET Core, Angular, SQL Server.
+
+COVID-19 India Tracker
+- Angular web application visualizing public COVID-19 data using public APIs.
+- Tech used: Angular, public API.
+
+Secret Santa Generator
+- Full stack application for Secret Santa game, automating participant email notifications.
+- Tech used: ASP.NET Core, Angular.
+
+Movie Ticket Booking System
+- Microservices-based application for online movie ticket booking with seat selection, payment integration, and booking management.
+- Tech used: ASP.NET Core, SQL Server.
+
+Education:
+Velammal Engineering College (2016 – 2020)
+BTech - Information Technology
+
+ST. Thomas Matriculation Hr. Sec. School (2015 – 2016)
+HSC
+
+ST. Thomas Matriculation Hr. Sec. School (2013 – 2014)
+SSLC
+
+Certifications:
+- Microsoft Azure Fundamentals (AZ-900) - 2024
+
+Key Achievements:
+- Successfully delivered 3+ full stack applications in healthcare domain
+- Contributed to insurance claims processing system serving 500K+ members
+
+Languages:
+English – Professional
+Tamil – Native
+
+Soft Skills:
+- Problem-solving
+- Team collaboration
+- Code review
+- Agile/Scrum
+
+Healthcare Domain Expertise:
+- Experience in developing and maintaining healthcare and insurance technology solutions, including claims processing and member management systems.
+
+[Add any additional sections or details as needed]
